@@ -2,7 +2,7 @@
 def hopper
 	programmer_hash = 
  		{
-def hopper
+
         }
      }
 
