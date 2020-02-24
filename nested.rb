@@ -10,7 +10,7 @@ def hopper
 
 end
 
-@@ -37,6 +37,9 @@ def alan_kay_is_known_for
+ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
@@ -20,7 +20,7 @@ end
 end
 
 def dennis_ritchies_language
-@@ -55,6 +58,9 @@ def dennis_ritchies_language
+def dennis_ritchies_language
           :languages => ["C"]
         }
      }
@@ -30,7 +30,7 @@ def dennis_ritchies_language
 end
 
 def adding_matz
-@@ -80,6 +86,10 @@ def adding_matz
+def adding_matz
         }
      }
 
@@ -41,7 +41,7 @@ programmer_hash.merge(:yukihiro_matsumoto => {
 
 end
 
-@@ -102,7 +112,8 @@ def changing_alan
+def changing_alan
      #change what Alan Kay is :known_for the value of the alans_new_info variable. 
      alans_new_info = "GUI"
 
@@ -51,7 +51,7 @@ end
 end
 
 def adding_to_dennis
-@@ -121,7 +132,8 @@ def adding_to_dennis
+def adding_to_dennis
           :languages => ["C"]
         }
      }
